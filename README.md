@@ -11,6 +11,6 @@ Flutter · TypeScript · Next.js · Convex · XRPL / Xaman · Python
 
 ### Follow along
 - 🌐 [xrpmusic.app](https://xrpmusic.app)
-- 🎬 [X-Music promo assets](https://cjwhitten.github.io/xmusic-promo/) · [RealWealth promo assets](https://cjwhitten.github.io/realwealth-promo/)
+- 🎬 [X-Music promo assets](https://whittenworks.github.io/xmusic-promo/) · [RealWealth promo assets](https://whittenworks.github.io/realwealth-promo/)
 
 <sub>All products are pre-release and running on XRPL testnet.</sub>
